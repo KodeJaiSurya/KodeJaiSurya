@@ -26,7 +26,7 @@
 
 ### About Me
 
-- M.S. in Artificial Intelligence, Northeastern University (GPA 3.91/4)
+- M.S. in Artificial Intelligence, Northeastern University
 - 3.5+ years across NLP, LLMs, and computer vision — from research (Sanskrit-based embeddings) to production (grant-writing copilots)
 - Shipped systems that cut task time by 70% and reduced hallucinations by 40%
 
